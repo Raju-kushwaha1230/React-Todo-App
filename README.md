@@ -2,7 +2,7 @@
 
 A simple and stylish To-Do application built using React.
 
-screanshot
+screenshot
 ----------
 ![Demo Screenshot](./todo.png) 
 
