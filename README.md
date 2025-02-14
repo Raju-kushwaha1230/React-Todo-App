@@ -18,19 +18,20 @@ screenshot
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/Raju-kushwaha1230/React-Todo-App
    ```
 2. Navigate to the project directory:
    ```sh
-   cd todo-app
+   cd React-Todo-App
    ```
+   
 3. Install dependencies:
    ```sh
    npm install
    ```
 4. Start the development server:
    ```sh
-   npm start
+   npm start 
    ```
 
 ## Technologies Used
@@ -59,5 +60,5 @@ screenshot
 
 Feel free to fork this repository and submit pull requests for improvements!
 
-##
+##Raju kushwaha
 
